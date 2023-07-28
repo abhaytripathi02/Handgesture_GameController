@@ -1,5 +1,7 @@
 # Gesture Control for Hill Climb Racing
 
+<img width="960" alt="Screenshot 2023-07-27 122033" src="https://github.com/Sudhanshu1st/gesture_gaming/assets/109865453/1dcd0acb-3095-4fe7-bf05-007773153fb3">
+
 This project allows you to control the popular game "Hill Climb Racing" using hand gestures captured by a webcam. The program utilizes the OpenCV library for hand tracking and gesture recognition, enabling you to steer the in-game vehicle by moving your hand.
 
 ## Requirements
